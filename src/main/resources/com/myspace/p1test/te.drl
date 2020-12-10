@@ -1,2 +1,3 @@
 package com.myspace.p1test;
 
+rule "test"
